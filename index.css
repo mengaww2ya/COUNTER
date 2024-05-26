@@ -1,0 +1,39 @@
+#initiallNum,
+#labTex {
+  text-align: center;
+  font-size: xx-large;
+  background-color: aqua;
+}
+
+#increase,
+#decrease,
+#rest {
+  font-size: xx-large;
+  text-align: center;
+  width: 20%;
+  background-color: orange;
+  border-radius: 20%;
+}
+
+#increase:hover,
+#decrease:hover,
+#rest:hover {
+  background-color: rgb(22, 151, 211);
+  cursor: pointer;
+}
+
+#buttons {
+  width: 50vw;
+  margin: 10% 30%;
+}
+
+#label {
+  padding: 5% 0 3% 50%;
+}
+
+.countContainer {
+  border-radius: 20%;
+  background-color: rgb(124, 53, 172);
+  margin: 10% 20%;
+  height: 50vh;
+}
